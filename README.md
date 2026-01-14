@@ -1,4 +1,4 @@
-# Unsupervised-Sentiment-Clustering-of-Airline-Tweets_NUS_AI_Project-
+# Unsupervised-Sentiment-Clustering-of-Airline-Tweets_NUS_AI_Project
 Airlines face constant public scrutiny, especially on social media platforms where passengers frequently express dissatisfaction related to delays, cancellations, service lapses and other travel disruptions. Negative sentiments can escalate quickly, shaping brand perception and potentially triggering public relations challenges.
 
 # Dataset Description
